@@ -1,0 +1,21 @@
+.img_deg{
+    float: right;
+    width: 30%;
+}
+.Pos_cen{
+    position: absolute;
+    width: 70%;
+    left: 15%;
+    top: 8%;
+    background-color: skyblue;
+    padding: 2%;
+}
+
+button{
+    background: black;
+    color: white;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+}
